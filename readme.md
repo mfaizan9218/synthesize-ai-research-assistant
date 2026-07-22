@@ -27,6 +27,17 @@ Synthesize is an AI-powered research assistant designed to streamline product re
 ## Project Structure
 
 ```
+synthesize-ai-research-assistant/
+│
+├── index.html
+├── README.md
+└── ss/
+    ├── dashboard.png
+    ├── competitor-matrix.png
+    ├── review-analyzer.png
+    ├── feature-canvas.png
+    └── byoai-settings.png
+```
 
 ---
 
@@ -53,8 +64,6 @@ Synthesize is an AI-powered research assistant designed to streamline product re
 ![BYOAI Settings](ss/byoai-settings.png)
 
 ---
-
-
 
 
 ---
